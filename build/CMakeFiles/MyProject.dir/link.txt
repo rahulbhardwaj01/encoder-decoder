@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MyProject.dir/main.cpp.o CMakeFiles/MyProject.dir/inc/Cryption.cpp.o CMakeFiles/MyProject.dir/inc/IO.cpp.o CMakeFiles/MyProject.dir/inc/ProcessManagement.cpp.o CMakeFiles/MyProject.dir/inc/ReadEnv.cpp.o -o MyProject  -lstdc++fs 
